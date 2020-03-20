@@ -1,0 +1,2 @@
+# laravel_repository
+工作中总结的简单易用的laravel框架的repository层，用于数据库增删改查，通用性强。
